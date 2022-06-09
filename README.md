@@ -28,3 +28,6 @@ Start up the app:
     $ npm start     or
     $ ng serve
 
+Creating a services in project: 
+    -> go to root of project (C://pluralsight/Spring Angular/globomatics-ui/globomatics-ui)
+    $ ng g service services/globomatics
